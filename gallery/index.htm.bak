@@ -22,7 +22,9 @@
               <param name="movie" value="../swf/index01.swf?route=1&mNum=2&sNum=1">
               <param name="quality" value="high">
               <embed src="../swf/index01.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="749" height="72"></embed>
-			  </object></td>
+			  </object>
+				<!-- 메인메뉴 및 탑메뉴부분 -->
+				<!-- /메인메뉴 및 탑메뉴부분 --></td>
 		</tr>
 		</table>
 	</td></tr>
@@ -342,5 +344,3 @@
 <!-- /카피라이트부분 -->
 </body>
 </html>
-
-<span style="display:none;"><a href="http://www.mobanwang.com" title="貢女친겼苟潼">貢女친겼</a></span>

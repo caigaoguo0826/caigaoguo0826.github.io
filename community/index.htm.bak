@@ -1,0 +1,462 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta name="author" content="(주)아사달">
+<meta name="description" content="아사달 템플릿">
+<meta name="keywords" content="아사달 템플릿, 동호회">
+<title>아사달 템플릿</title>
+<link rel="stylesheet" href="../link.css">
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" width="100%">
+
+<!-- 로고 및 메뉴부분 -->
+<table width="100%" height="101" border="0" cellpadding="0" cellspacing="0" background="../image/menu_bg.gif">
+<tr height="29">
+	<td colspan="2"></td></tr>
+<tr height="72">
+	<td align="center">
+		<table border="0" cellspacing="0" cellpadding="0" width="950" height="42">
+		<tr>
+			<td width="10" valign="top"><img src="../image/logo_left_round.gif" border="0"></td>
+			<td width="192" valign="top" bgcolor="#ffffff"><a href="../index.htm"><img src="../image/logo.gif" border="0" alt="로고" ></a></td>
+			<td width="749"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="749" height="72">
+              <param name="movie" value="../swf/index01.swf?route=1&mNum=1&sNum=1">
+              <param name="quality" value="high">
+              <embed src="../swf/index01.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="749" height="72"></embed>
+			  </object>
+				<!-- 메인메뉴 및 탑메뉴부분 -->
+				<!-- /메인메뉴 및 탑메뉴부분 --></td>
+		</tr>
+		</table>
+	</td></tr>
+</table>
+<!-- /로고 및 메뉴부분 -->
+
+
+
+<!-- 메인테이블 -->
+<table border="0" cellspacing="0" cellpadding="0" width="950" align="center">
+<tr>
+	<!-- 왼쪽부분 -->
+	<td width="5"></td>
+	<td width="196" valign="top">
+		<!-- 로그인부분 -->
+		<table border="0" cellspacing="0" cellpadding="0" width="185" bgcolor="#fefbed">
+		<tr>
+			<td colspan="3"><img src="../image/login_top.gif" border="0"></td></tr>
+		<tr height="114">
+			<td width="7" background="../image/login_leftside_bg.gif"></td>
+			<td width="171">
+				<!-- 로그인 타이틀 및 입력부분 -->
+				<table border="0" cellspacing="0" cellpadding="0" width="171">
+				<tr height="22">
+					<td colspan="2" align="center"><img src="../image/login_title.gif" border="0"></td></tr>
+				<tr height="1">
+					<td bgcolor="#e0d7b1" colspan="2"></td></tr>
+				<tr height="11">
+					<td></td></tr>
+				<tr>
+					<td width="8"></td>
+					<td>
+						<!-- 로그인 입력 및 검색부분 -->
+						<table border="0" cellspacing="0" cellpadding="0" width="163">
+						<tr height="23">
+							<td valign="top" width="33"><img src="../image/id.gif" border="0"></td>
+							<td valign="top" width="93"><input type="text" style="width:88;height:17;border-width:1:border-style:solid;border-color:#e0d7b1"></td>
+							<td rowspan="2"><a href="#"><img src="../image/btn_login.gif" border="0" alt="로그인"></a></td>
+						</tr>
+						<tr height="18">
+							<td><img src="../image/pw.gif" border="0"></td>
+							<td><input type="password" style="width:88;height:17;border-width:1:border-style:solid;border-color:#e0d7b1"></td></tr>
+						<tr height="10">
+							<td></td></tr>
+						<tr height="28">
+							<td colspan="3" valign="top">
+								<!-- 아이디 및 비밀번호찾기부분 -->
+								<table border="0" cellspacing="0" cellpadding="0" width="163">
+								<tr>
+									<td width="79"><a href="#"><img src="../image/id_search.gif" border="0" alt="아이디찾기"></a></td>
+									<td width="64"><a href="#"><img src="../image/pw_search.gif" border="0" alt="비밀번호찾기"></a></td></tr>
+								</table>
+								<!-- /아이디 및 비밀번호찾기부분 -->
+							</td></tr>
+						</table>
+						<!-- /로그인 입력 및 검색부분 -->
+					</td></tr>
+				</table>
+				<!-- /로그인 타이틀 및 입력부분 -->
+			</td>
+			<td width="7" background="../image/login_rightside_bg.gif"></td></tr>
+		<td colspan="3"><img src="../image/login_bottom.gif" border="0"></td></tr>
+		</table>
+		<!-- /로그인부분 -->
+
+		<!-- 중간공간 -->
+		<table border="0" cellspacing="0" cellpadding="0">
+		<tr height="18">
+			<td></td></tr>
+		</table>
+		<!-- /중간공간 -->
+
+		<!-- 왼쪽메뉴부분 -->
+		<table border="0" cellspacing="0" cellpadding="0" width="185">
+		<tr>
+			<td colspan="3"><img src="image/leftmenu_top.gif" border="0"></td></tr>
+		<tr>
+			<td width="1" bgcolor="#deddce"></td>
+			<td width="183" align="center">
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><a href="#"><img src="image/leftmenu01.gif" border="0" alt="가입인사"></a></td></tr>
+				<tr>
+					<td><a href="#"><img src="image/leftmenu02.gif" border="0" alt="자유게시판"></a></td></tr>
+				<tr>
+					<td><a href="#"><img src="image/leftmenu03.gif" border="0" alt="정모/번개게시판"></a></td></tr>
+				<tr>
+					<td><a href="#"><img src="image/leftmenu04.gif" border="0" alt="모임후기"></a></td></tr>
+				<tr>
+					<td><a href="#"><img src="image/leftmenu05.gif" border="0" alt="방명록"></a></td></tr>
+				<tr>
+					<td><a href="#"><img src="image/leftmenu06.gif" border="0" alt="알뜰장터"></a></td></tr>
+				<tr>
+					<td><a href="#"><img src="image/leftmenu07.gif" border="0" alt="이벤트"></a></td></tr>
+				</table>
+			</td>
+			<td width="1" bgcolor="#deddce"></td></tr>
+		<td colspan="3"><img src="image/leftmenu_bottom.gif" border="0"></td></tr>
+		</table>
+		<!-- 왼쪽메뉴부분 -->
+		
+		<!-- 중간공간 -->
+		<table border="0" cellspacing="0" cellpadding="0">
+		<tr height="8">
+			<td></td></tr>
+		</table>
+		<!-- /중간공간 -->
+		
+		<!-- 왼쪽배너부분 -->
+		<table border="0" cellspacing="0" cellpadding="0" width="185">
+		<tr>
+			<td><a href="#"><img src="../image/btn_event.gif" border="0" alt="주요행사"></a></td></tr>
+		<tr height="7">
+			<td></td></tr>
+		<tr>
+			<td><a href="#"><img src="../image/btn_faq.gif" border="0" alt="FAQ"></a></td></tr>
+		</table>
+		<!-- /왼쪽배너부분 -->
+		
+		<!-- 중간공간 -->
+		<table border="0" cellspacing="0" cellpadding="0">
+		<tr height="127">
+			<td></td></tr>
+		</table>
+		<!-- /중간공간 -->
+				
+		<!-- 중간공간 -->
+		<table border="0" cellspacing="0" cellpadding="0">
+		<tr height="100%">
+			<td></td></tr>
+		</table>
+		<!-- /중간공간 -->
+	</td>
+	<!-- /왼쪽부분 -->
+	
+	<td width="749" valign="top" align="center">
+		<!-- 기본내용부분 -->
+		<table border="0" cellspacing="0" cellpadding="0" width="749" align="center">
+		<tr>
+			<td width="749" valign="top" align="center">
+				<!-- 메인이미지부분 -->
+				<table border="0" cellspacing="0" cellpadding="0" width="749">
+				<tr>
+					<td><img src="image/img_main.jpg" border="0"></td></tr>
+				</table>
+				<!-- 메인이미지부분 -->
+				
+				<!-- 중간공간 -->
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tr height="18">
+					<td></td></tr>
+				</table>
+				<!-- /중간공간 -->
+
+				<!-- 제목부분 -->
+				<table border="0" cellspacing="0" cellpadding="0" width="741">
+				<tr height="33">
+					<td width="10"></td>
+					<td width="511" valign="top"><img src="image/content_title.gif" border="0"></td>
+					<td><img src="image/content_title_bullet.gif" border="0" align="absmiddle"><font color="#5c5c5c" style="font-size:12px;line-height:29px">&nbsp; HOME &gt; 커뮤니티 &gt;</font><font color="#629615" style="font-size:12px;line-height:29px"><b> 자유게시판</b></font></td></tr>
+				<tr height="1">
+					<td colspan="3" bgcolor="#deddce"></td></tr>
+				<tr height="3">
+					<td colspan="3" bgcolor="#fbf7ec"></td></tr>
+				</table>
+				<!-- 제목부분 -->
+				
+				<!-- 중간공간 -->
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tr height="27">
+					<td></td></tr>
+				</table>
+				<!-- /중간공간 -->
+				
+				<!-- 게시판타이틀이미지 -->
+				<table border="0" cellspacing="0" cellpadding="0" width="585">
+				<tr height="76">
+					<td valign="top" width="103"><img src="image/img_title.gif" border="0"></td>
+					<td><img src="image/txt_title.gif" border="0"></td></tr>
+				</table>
+				<!-- 게시판타이틀이미지 -->
+
+				<!-- 중간공간 -->
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tr height="40">
+					<td></td></tr>
+				</table>
+				<!-- /중간공간 -->
+
+				<!-- 기사검색부분 -->
+				<table border="0" cellspacing="0" cellpadding="0" width="617">
+				<tr height="20">
+					<td width="247" valign="bottom"><img src="image/bbs_top_bullet.gif" border="0"><font color="#6a7686" style=
+					"font-size:12px;line-height:50px"> 총 112건의 글이 등록되어 있습니다.</font></td>
+					<td width="93"><select style="width:79px;height:18px;border-color:9c9c9c;border-width:1px;border-style:solid;font-size:12px;color:#686868"><option>&nbsp;&nbsp;&nbsp;제목</select></td>
+					<td width="178"><input type="text" style="width:164px;height:18px;border-color:e4e3e1;border-width:1px;border-style:solid"></td>
+					<td><a href="#"><img src="image/btn_search.gif" border="0" alt="검색"></a></td></tr>
+				</table>
+				<!-- 기사검색부분 -->
+				
+				<!-- 중간공간 -->
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tr height="17">
+					<td></td></tr>
+				</table>
+				<!-- /중간공간 -->
+
+				<!-- 게시판부분 -->
+				<table border="0" cellspacing="0" cellpadding="0" width="663">
+				
+				<col width="25">
+				<col width="61" align="center">
+				<col width="57">
+				<col width="160">
+				<col width="77">
+				<col width="73" align="center">
+				<col width="83" align="center">
+				<col width="65" align="center">
+				<col width="23">
+				<col width="39">
+				
+				<tr height="30">
+					<td><img src="image/bbs_title_leftend.gif"  border="0"></td>
+					<td background="image/bbs_tit_bg.gif"><img src="image/bbs_number.gif" border="0"></td>
+					<td background="image/bbs_tit_bg.gif"></td>
+					<td background="image/bbs_tit_bg.gif" align="center"><img src="image/bbs_title.gif" border="0"></td>
+					<td background="image/bbs_tit_bg.gif"></td>
+					<td background="image/bbs_tit_bg.gif"><img src="image/bbs_name.gif" border="0"></td>
+					<td background="image/bbs_tit_bg.gif"><img src="image/bbs_date.gif" border="0"></td>
+					<td background="image/bbs_tit_bg.gif"><img src="image/bbs_inquery.gif" border="0"></td>
+					<td><img src="image/bbs_title_rightend.gif" border="0"></td>
+					<td></td></tr>
+				<tr height="25">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>52</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">카페쥔장께 건의합니다.</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">꼬마</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">30</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>51</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">어제 만나서 넘 반가웠습니다.</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">보물섬</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">52</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>50</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">하얀생쥐님들을 소개합니다.</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">왕사마</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">36</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>49</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">드디어 기다리고 기다리던 정모가..</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">꼬마</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">14</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>48</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">길좀 알려주세요ㅜ.ㅜ 길치라서..</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">울트라맨</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">27</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>47</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">요즘 무기력합니다 뭐 신나는일..</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">효~</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">58</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>46</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">고맙슴니다. 신혼여행 잘다녀왔습니다.</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">사랑해요</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">42</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>45</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">그냥 거시기해버릴까요?^^</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">살살</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">23</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>44</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">금주 일요일 교통통제는 다들 확인..</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">왕사마</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">25</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td>
+					<td><font style="color:#8d99aa;font-family:gulim;font-size:12;line-height:27px"><b>43</b></font></td>
+					<td></td>
+					<td colspan="2"><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">요즘 무기력합니다 뭐 신나는일..</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">매니저</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">2000/0/00</font></td>
+					<td><font style="color:#808080;font-family:gulim;font-size:11;line-height:24px">30</font></td>
+					<td></td>
+					<td></td></tr>
+				<tr height="1">
+					<td colspan="9" background="image/bbs_dot_line.gif"></td>
+					<td></td></tr>
+				<tr height="24">
+					<td></td></tr>
+				<tr height="49">
+					<td colspan="9" valign="top">
+						<!-- 번호바부분-->
+						<table border="0" cellspacing="0" cellpadding="0" width="624">
+						<tr height="11">
+							<td width="175"></td>
+							<td style="font-size:12px;line-height:50px;color:#898989"><a href="#"><img src="image/btn_first.gif" border="0" align="absmiddle"></a>&nbsp;<a href="#"><img src="image/btn_pre.gif" border="0" align="absmiddle"></a>&nbsp;&nbsp;<a href="#"><b>1</b></a>&nbsp;&nbsp;&nbsp;<a href="#">2</a>&nbsp;&nbsp;&nbsp;<a href="#">3</a>&nbsp;&nbsp;&nbsp;<a href="#">4</a>&nbsp;&nbsp;&nbsp;<a href="#">5</a>&nbsp;&nbsp;&nbsp;<a href="#">6</a>&nbsp;&nbsp;&nbsp;<a href="#">7</a>&nbsp;&nbsp;&nbsp;<a href="#">8</a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="image/btn_next.gif" border="0" align="absmiddle"></a>&nbsp;<a href="#"><img src="image/btn_last.gif" border="0" align="absmiddle"></a></td></tr>
+						</table>
+						<!-- /번호바부분-->
+					</td>
+					<td></td></tr>
+				</table>
+				<!-- /게시판부분 -->
+			</td></tr>
+		</table>
+		<!-- 기본내용부분 -->
+	</td></tr>
+</table>
+<!-- /메인테이블 -->
+
+<!-- 중간공간 -->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr height="48">
+	<td></td></tr>
+</table>
+<!-- /중간공간 -->
+
+<!-- 카피라이트부분 -->
+<table border="0" cellspacing="0" cellpadding="0" width="970" align="center">
+<tr>
+	<td width="1"></td>
+	<td>
+		<table border="0" cellspacing="0" cellpadding="0" width="969" bgcolor="#deddce">
+		<tr height="97">
+			<td align="center">
+				<table border="0" cellspacing="0" cellpadding="0" width="967" bgcolor="#f3f3f3">
+				<tr height="95">
+					<td width="65"></td>
+					<td width="163"><a href="index.htm"><img src="../image/bottom_logo.gif" border="0" alt="로고"></a></td>
+					<td width="50"><img src="../image/bottom_gap.gif" border="0"></td>
+					<td>
+						<table border="0" cellspacing="0" cellpadding="0" width="420">
+						<tr height="21">
+							<td></td></tr>
+						<tr height="26">
+							<td valign="top">
+								<!-- 보톰메뉴부분 -->
+								<table border="0" cellspacing="0" cellpadding="0" width="420">
+								<tr>
+									<td><a href="#"><img src="../image/bottom_menu01.gif" border="0" alt="동호회소개"></a></td>
+									<td><a href="#"><img src="../image/bottom_menu02.gif" border="0" alt="운영진소개"></a></td>
+									<td><a href="#"><img src="../image/bottom_menu03.gif" border="0" alt="개인정보보호정책"></a></td>
+									<td><a href="#"><img src="../image/bottom_menu04.gif" border="0" alt="이용약관"></a></td>
+									<td><a href="#"><img src="../image/bottom_menu05.gif" border="0" alt="운영진에게 메일보내기"></a></td></tr>
+								</table>
+								<!-- /보톰메뉴부분 -->
+							</td></tr>
+						<tr>
+							<td><img src="../image/bottom_address.gif" border="0"></td></tr>
+						<tr height="30">
+							<td valign="top"><img src="../image/bottom_copy.gif" border="0"></td></tr>
+						</table>
+					</td></tr>
+				</table>
+			</td></tr>
+		</table>
+	</td></tr>
+</table>
+<!-- /카피라이트부분 -->
+</body>
+</html>
